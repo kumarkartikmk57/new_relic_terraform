@@ -1,0 +1,5 @@
+new_relic_account_id = "4367946"
+project = "cosmic-descent-405605"
+name = "media_uat_gcp_account"
+dash_name = "cloud_run_dash"
+new_relic_service_account = "yj6wo5q1v3l@newrelic-gcp.iam.gserviceaccount.com"
